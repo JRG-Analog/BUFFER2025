@@ -1,0 +1,14 @@
+Reference,Qty,Value,Description,Footprint
+"C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C27,C28,C29,C30",22,100nF,"X5R, 50V or better",Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm
+"C19,C20,C21,C22,C23,C24,C25,C26,C31,C32,C33,C34,C35,C36,C37,C38",16,100µF,"35V, low ESR",Capacitor_THT:CP_Radial_D6.3mm_P2.50mm
+J1,1,Conn_Coaxial,Wire to BNC,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+"J2,J3,J4,J5,J6",5,~,Wire to banana jack,TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded
+"Q1,Q2,Q3,Q4,Q5",5,C6144,On Semi,AA JG Lib Footprints Library:TO-220-3_Vertical_FP
+"Q6,Q7,Q8,Q9,Q10",5,A2222,On Semi,AA JG Lib Footprints Library:TO-220-3_Vertical_FP
+"Q11,Q12",2,2N3906,,Package_TO_SOT_THT:TO-92_Inline
+"Q13,Q14",2,2N3904,,Package_TO_SOT_THT:TO-92_Inline
+"R1,R2,R3,R4,R5,R6,R7,R8",8,100m?,"1W, 5% or better",Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal
+"R9,R10",2,10?,"1/4W, 5% or better",Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+"R11,R12",2,1?,"1/4W, 5% or better",Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R13,1,1k?,"1/4W, 5% or better",Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+U1,1,L78L05,,Package_TO_SOT_THT:TO-92_Inline
